@@ -1,0 +1,117 @@
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe.config
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Form1.resources
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Properties.Resources.resources
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CopyComplete
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Listados.resources
+C:\Users\User\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Menu.resources
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe.config
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Form1.resources
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Listados.resources
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Menu.resources
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Properties.Resources.resources
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe.config
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Form1.resources
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Listados.resources
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Menu.resources
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Properties.Resources.resources
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe.config
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\ExamenProgramacion.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Form1.resources
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Listados.resources
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Menu.resources
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.Properties.Resources.resources
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.csproj.CopyComplete
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.exe
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\ExamenProgramacion\obj\Debug\ExamenProgramacion.pdb

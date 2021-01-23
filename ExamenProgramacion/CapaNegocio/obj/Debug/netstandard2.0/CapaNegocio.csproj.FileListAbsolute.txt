@@ -1,0 +1,56 @@
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb

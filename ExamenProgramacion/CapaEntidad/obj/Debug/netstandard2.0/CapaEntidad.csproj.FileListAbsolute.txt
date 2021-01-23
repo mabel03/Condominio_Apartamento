@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.deps.json
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.deps.json
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.deps.json
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.deps.json
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaEntidad\obj\Debug\netstandard2.0\CapaEntidad.pdb

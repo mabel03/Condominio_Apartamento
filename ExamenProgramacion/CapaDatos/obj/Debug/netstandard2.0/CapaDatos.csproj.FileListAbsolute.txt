@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.deps.json
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Programacion 02\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.deps.json
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\bin\Debug\netstandard2.0\CapaEntidad.pdb
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\User\Desktop\Itla\cuatrimestre6\Programacion\ExamenProgramacion\CapaDatos\obj\Debug\netstandard2.0\CapaDatos.pdb
